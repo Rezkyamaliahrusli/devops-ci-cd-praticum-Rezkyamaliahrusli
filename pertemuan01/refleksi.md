@@ -1,8 +1,0 @@
-## 💭 Refleksi Pribadi
-Apa harapan Anda dari praktikum DevOps ini?
-
-Harapan saya dari praktikum DevOps ini adalah saya dapat memahami bagaimana proses pengembangan aplikasi dilakukan secara profesional di dunia industri, bukan hanya sekadar menulis kode. Saya ingin memahami bagaimana sebuah aplikasi dibangun, diuji, hingga akhirnya bisa di-deploy dan digunakan oleh banyak orang. Selain itu, saya berharap praktikum ini dapat melatih saya untuk lebih disiplin dalam menggunakan version control seperti Git, memahami alur kerja Continuous Integration dan Continuous Deployment (CI/CD), serta membiasakan diri dengan workflow kolaboratif yang umum diterapkan dalam tim developer modern. Dengan adanya praktikum ini, saya juga ingin membangun pola pikir yang lebih sistematis dan terstruktur dalam mengembangkan sebuah proyek software.
-
-## Skill apa yang ingin Anda kuasai di akhir semester?
-
-Di akhir semester, saya ingin menguasai pengembangan web modern yang mengarah ke web development profesional dengan menggunakan framework terbaru seperti Next.js. Saya ingin memahami konsep dasar hingga lanjutan seperti Server-Side Rendering (SSR), Static Site Generation (SSG), serta integrasi API dalam satu project. Selain itu, saya ingin mampu menghubungkan aplikasi Next.js dengan proses deployment otomatis melalui pipeline CI/CD, serta memahami penggunaan Docker untuk memastikan aplikasi dapat berjalan konsisten di berbagai environment. Target saya adalah mampu membangun dan men-deploy aplikasi web fullstack sederhana secara mandiri dengan workflow yang rapi dan sesuai standar industri.
